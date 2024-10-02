@@ -24,8 +24,8 @@ below.
 
 * [France](https://hal.archives-ouvertes.fr) - HAL is an open archive where
   authors can deposit scholarly documents from all academic fields.
-* [Netherlands](https://narcis.nl) -  NARCIS aims to record all scholarly
-  outputs (papers, data, as well as software) produced at Dutch institutions.
+* ~~[Netherlands](https://www.narcis.nl)~~ -  NARCIS has stopped per juli 2023. It aimed to record all scholarly
+  outputs (papers, data, as well as software) produced at Dutch institutions, but it is no longer available.
 
 ## By organization
 

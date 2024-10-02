@@ -24,8 +24,9 @@ below.
 
 * [France](https://hal.archives-ouvertes.fr) - HAL is an open archive where
   authors can deposit scholarly documents from all academic fields.
-* [Netherlands](https://narcis.nl) -  NARCIS aims to record all scholarly
-  outputs (papers, data, as well as software) produced at Dutch institutions.
+* [Netherlands](https://netherlands.openaire.eu/) -  The Netherlands Research Portal aims to
+  provide a dataset of research information, including publications, research data, research
+  software items, data sources, grants, and organizations.
 
 ## By organization
 
